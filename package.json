@@ -1,5 +1,5 @@
 {
-  "name": "node-lwip",
+  "name": "lwip-test-case",
   "version": "0.0.1",
   "description": "Test case for lwip library",
   "main": "index.js",
@@ -12,5 +12,18 @@
     "case"
   ],
   "author": "Pablo Andrés Dorado Suárez <im@pandres95.me> (https://pandres95.me)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "q": "^1.4.1",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pandres95/lwip-test-case.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pandres95/lwip-test-case/issues"
+  },
+  "homepage": "https://github.com/pandres95/lwip-test-case#readme"
 }
